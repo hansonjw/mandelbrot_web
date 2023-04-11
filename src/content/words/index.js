@@ -1,15 +1,5 @@
 const CONTENT = {
     images: [
-        // require('./../images/m001.jpg'),
-        // require('./../images/m002.jpg'),
-        // require('./../images/m003.jpg'),
-        // require('./../images/m004.jpg'),
-        // require('./../images/m005.jpg'),
-        // require('./../images/m006.jpg'),
-        // require('./../images/m007.jpg'),
-        // require('./../images/m008.jpg'),
-        // require('./../images/m009.jpg'),
-        // require('./../images/m010.jpg'),
         require('./../images/001.PNG'),
         require('./../images/002.PNG'),
         require('./../images/003.PNG'),
